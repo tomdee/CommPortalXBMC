@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="51000">
+		<setting id="serverName" type="text" label="51001" default="emeapbx.metaswitch.com" />
+		<setting id="customizationPath" type="text" label="51004" default="" />
+		<setting id="phoneNumber" type="text" label="51002" default="02083627260" />
+		<setting id="password" option="hidden" type="text" label="51003" default="$Tom1177" />
+	</category>
+</settings>
